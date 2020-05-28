@@ -26,7 +26,7 @@ font-size:300%;"
 D-Shield is a simple, easy but an accurate radiation shielding calculation
   web module.It caters the need of a health physicist/radiation professional in
   designing the radiation shielding encountered at following facilities. </p> </i> </b>
-<ul>
+<!--<ul>
 <li align="left" style="color:DodgerBlue; font-family:Courier;font-size:150%;">
 <a href="LINAC.html" target="_parent">Linear Accelerator</a> </li>
 <li align="left" style="color:DodgerBlue; font-family:Courier;font-size:150%;">
@@ -39,7 +39,7 @@ D-Shield is a simple, easy but an accurate radiation shielding calculation
 <a href="HXU.html" target="_parent" >Hospital X-ray Units</a> </li>
 <li align="left" style="color:DodgerBlue; font-family:Courier;font-size:150%;">
 <a href="PBTU.html" target="_parent" >Proton Beam Therapy Units</a> </li>
-</ul>
+</ul>-->
 <p> </p>
   <hr/>
 <footer>
