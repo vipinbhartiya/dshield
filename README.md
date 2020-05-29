@@ -18,7 +18,7 @@ scripts, and other meta information.-->
 background color to powderblue-->
 <h1 align="center" style="color:SlateBlue; font-family:Courier;
 font-size:300%;"
-   title="Created by VD"> D-Shield <br/> </h1>
+   title="Created by "> D-Shield <br/> </h1>
    <hr/>
 <h4 align="center" style="color:tomato; font-family:Courier;font-size:150%;">
   A quick & reliable solution for Radiation Professionals </h4>
@@ -44,10 +44,10 @@ D-Shield is a simple, easy but an accurate radiation shielding calculation
   <hr/>
 <footer>
 <b>  <p align="left" style="color:tomato; font-family:Courier;
-  font-size:100%;">Web module developed by: Vipin Dev </p> </b>
+  font-size:100%;">Web module developed by:  </p> </b>
   <p align="left" style="color:SlateBlue; font-family:Courier;
   font-size:70%;">Contact information: <a href="mailto:someone@example.com">
-  vipindev@gmail.com</a>.</p>
+  </a>.</p>
     <h1>D-Shield</h1>
     <div id="input">
       IOsw [0=none, 1=input data, 2=media and input data]: <input id="IOsw" > <br>
